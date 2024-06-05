@@ -1,0 +1,7 @@
+/pintos/src/threads/threads.h
+/pintos/src/threads/threads.c
+/pintos/src/userprog/process.c
+/pintos/src/userprog/process.h
+/pintos/src/userprog/syscall.c
+/pintos/src/userprog/syscall.h
+/pintos/src/userprog/exeption.c
